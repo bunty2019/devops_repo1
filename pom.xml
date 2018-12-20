@@ -1,8 +1,7 @@
 <project>
-<description> A description to test stash </description>
-<name>helloworld</name>
+<description> server description </description>
+<name>devops1</name>
 <groupId>xcard</groupId>
-<local> local change </local>
 <revision>1.1</revision>
 <locale>US</locale>
 </project>

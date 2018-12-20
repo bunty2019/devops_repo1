@@ -1,2 +1,7 @@
 Hello World!!
+<<<<<<< Updated upstream
 Another line to test stash
+=======
+
+Adding  local change  text
+>>>>>>> Stashed changes

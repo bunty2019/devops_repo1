@@ -1,7 +1,7 @@
 <project>
-Hello
 <description> new description</description>
 <name>xcard</name>
 <groupId>xcard</groupId>
 <local> local change </local>
+<revision>1.1</revision>
 </project>

@@ -1,8 +1,6 @@
 <project>
-<description> server description </description>
+<description>SERVER</description>
 <name>devops12</name>
 <groupId>xcard</groupId>
-<local> local change </local>
-<revision>1.2</revision>
 <locale>UnitesStates</locale>
 </project>

@@ -1,5 +1,5 @@
 <project>
-<description> Hello World Example</description>
+<description>test description</description>
 <name>helloworld</name>
 <groupId>xcard</groupId>
 <local> local change </local>

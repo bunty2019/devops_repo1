@@ -2,4 +2,5 @@
 Hello
 <description> new description</description>
 <name>xcard</name>
+  <groupId>xcard</groupId>
 </project>

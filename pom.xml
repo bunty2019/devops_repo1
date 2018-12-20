@@ -1,4 +1,5 @@
 <project>
 Hello
 <description> new description</description>
+<name>xcard</name>
 </project>

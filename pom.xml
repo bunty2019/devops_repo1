@@ -2,5 +2,6 @@
 Hello
 <description> new description</description>
 <name>xcard</name>
-  <groupId>xcard</groupId>
+<groupId>xcard</groupId>
+<local> local change </local>
 </project>

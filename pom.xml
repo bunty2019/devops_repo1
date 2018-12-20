@@ -1,6 +1,6 @@
 <project>
 <description> Hello World Example</description>
-<name>xcard</name>
+<name>helloworld</name>
 <groupId>xcard</groupId>
 <local> local change </local>
 <revision>1.1</revision>

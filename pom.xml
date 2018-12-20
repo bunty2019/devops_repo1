@@ -1,6 +1,7 @@
 <project>
 <description>SERVER</description>
-<name>devops12</name>
-<groupId>xcard</groupId>
-<locale>UnitesStates</locale>
+<name>testdevops12</name>
+<groupId>devops</groupId>
+<revision>1.2</revision>
+<locale>INDIA</locale>
 </project>

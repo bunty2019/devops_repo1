@@ -4,4 +4,6 @@
 <groupId>xcard</groupId>
 <local> local change </local>
 <revision>1.1</revision>
+<locale>US</locale>
+>>>>>>> 5ff8e3e4ae833040bd6b483c20ace0531e72234c
 </project>

@@ -1,5 +1,5 @@
 <project>
-<description> Hello World Example</description>
+<description> A description to test stash </description>
 <name>helloworld</name>
 <groupId>xcard</groupId>
 <local> local change </local>
